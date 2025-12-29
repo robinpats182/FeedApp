@@ -1,0 +1,11 @@
+fastapi==0.127.1
+uvicorn==0.40.0
+sqlalchemy==2.0.45
+aiosqlite==0.22.1
+fastapi-users==15.0.3
+fastapi-users-db-sqlalchemy==7.0.0
+streamlit==1.52.2
+requests==2.32.5
+python-dotenv==1.2.1
+imagekitio==5.0.0
+python-multipart==0.0.21
