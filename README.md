@@ -401,7 +401,7 @@ MIT License © 2024
 ## 🤝 Contributing
 
 Found a bug? Have ideas?
-[Open an issue](https://github.com/yourusername/BlogHub/issues)
+[Open an issue](https://github.com/robinpats182/FeedApp/issues)
 
 ---
 
